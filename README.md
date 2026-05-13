@@ -123,8 +123,8 @@ Memorista de Ingeniería Civil Industrial e Ingeniería Civil en Computación en
 
 ## Idiomas 🗣️
 
-- Inglés
 - Español
+- Inglés
 
 ---
 
